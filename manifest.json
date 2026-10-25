@@ -1,0 +1,15 @@
+{
+  "name": "FiTNESS YeGEVHA",
+  "short_name": "YeGEVHA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050916",
+  "theme_color": "#050916",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
